@@ -1,38 +1,94 @@
-.App {
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Head Style */
+
+#hallo h3 {
+  font-size: 2.5rem;
+  margin-bottom: 2%;
+}
+#hallo p {
+  width: 60%;
+  text-align: center;
+  margin-left: 20%;
+  line-height: 35px;
+  font-size: 20px;
+  margin-top: 3%;
+}
+.Glint {
+  background-color: green;
+  margin-bottom: 4%;
+}
+
+.Glint h1 {
+  text-align: center;
+  color: white;
+  font-size: 5rem;
+}
+.Glint h3 {
+  text-align: center;
+  font-size: 1rem;
+  padding-top: 3%;
+}
+#grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 5%;
+  padding-bottom: 2%;
+}
+#grid div:not(#Happy) {
+  border-right: 2px solid white;
+}
+
+/* //////________________________________________________///////
+Firstsection Style */
+
+#idverything {
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#tasks h2 {
+  font-size: 2rem;
+  margin-bottom: 1%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+#brand h2:nth-of-type(1)::before {
+  content: url("./assets/img/brush.svg");
+  margin-right: 3%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#brand h2:nth-of-type(2)::before {
+  content: url("./assets/img/megaphone.svg");
+  margin-right: 3%;
 }
-
-.App-link {
-  color: #61dafb;
+#illustration h2:nth-of-type(1)::before {
+  content: url("./assets/img/object-select.svg");
+  margin-right: 3%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#illustration h2:nth-of-type(2)::before {
+  content: url("./assets/img/globe-line.svg");
+  margin-right: 3%;
+}
+#idverything h1 {
+  text-align: center;
+  font-size: 3rem;
+  width: 55%;
+  margin-left: 21%;
+}
+#idverything h3 {
+  color: green;
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+#tasks {
+  margin-top: 5%;
+  margin-left: 10%;
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-bottom: 4%;
+}
+#tasks p {
+  width: 50%;
+  line-height: 25px;
+  margin-left: 9%;
+  margin-top: 2%;
 }
