@@ -92,3 +92,22 @@ Firstsection Style */
   margin-left: 9%;
   margin-top: 2%;
 }
+
+/* //////________________________________________________///////
+Footer Style */
+.footer {
+  margin-left: 5%;
+  width: 90%;
+  background-color: lightgrey;
+}
+.footer img {
+  width: 15%;
+  height: 20vh;
+}
+#menucarte {
+  margin-left: 7%;
+  width: 86%;
+  background-color: white;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}

@@ -4,7 +4,7 @@ const Footer = () => {
 <article id="menucarte">
     <div id="fusce">
         <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/salat.jpeg" alt=""/>
             <figcaption>
                 <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -14,7 +14,7 @@ const Footer = () => {
     </div>
     <div id="aliquam">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/pizza.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -24,7 +24,7 @@ const Footer = () => {
     </div>
     <div id="sed">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/frikadellen.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -34,7 +34,7 @@ const Footer = () => {
     </div>
     <div id="sagittis">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/glass.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -44,7 +44,7 @@ const Footer = () => {
     </div>
     <div id="eget">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/pizza2.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -54,7 +54,7 @@ const Footer = () => {
     </div>
     <div id="quisque">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/scampi.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -64,7 +64,7 @@ const Footer = () => {
     </div>
     <div id="dui">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/spagetthi.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
@@ -74,7 +74,7 @@ const Footer = () => {
     </div>
     <div id="donec">
     <figure>
-            <img src="" alt=""/>
+            <img src="./assets/img/teller.jpeg" alt=""/>
             <figcaption>
             <h3>Fusce dictum finibus</h3>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis officiis accusantium quidem officia ipsum inventore!</p>
